@@ -11,7 +11,7 @@ Utilizar tags HTML básicas e semânticas;
 Utilizar tags de tabelas;
 Utilizar Flexbox e media queries.
 
-
+(https://site-resposivo-clinica-life.vercel.app/index.html)
 ## Execução
 ____________________________________________________________________
 O site é responsivo, isso significa que ele se adapta com o tamanho da tela do usuário.
